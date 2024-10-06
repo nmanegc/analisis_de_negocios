@@ -1,4 +1,4 @@
-# analisis_de_negocios
+# toma_de_decisiones
 En este proyecto para una gran tienda en línea. Junto con el departamento de marketing se recopiló una lista de hipótesis que pueden ayudar a aumentar los ingresos.
 
 El objetivo del proyecto fue priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
