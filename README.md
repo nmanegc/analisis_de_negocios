@@ -3,8 +3,6 @@ En este proyecto para una gran tienda en línea. Junto con el departamento de ma
 
 El objetivo del proyecto fue priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
 
-En el siguiente enlace encontrarás el desarrollo del proyecto en formato Jupyter Notebook `Insertar enlace a notebook en git`
-
 **Al realizar este proyecto puse en prácitca mis conocimientos en:**
 
 - Identificar las métricas a mejorar.
